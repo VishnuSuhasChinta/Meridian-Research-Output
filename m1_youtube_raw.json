@@ -1,0 +1,1774 @@
+{
+  "scraped_at": "2026-03-29T12:49:09.546960+00:00",
+  "queries": [
+    "AI agents 2025",
+    "autonomous AI agents",
+    "AI agent startups",
+    "agentic AI investing",
+    "building AI agents",
+    "AI agent workflow",
+    "AI agent tools",
+    "LLM agents production",
+    "AI agents venture capital",
+    "investing in AI agents"
+  ],
+  "stats": {
+    "videos_scanned": 70,
+    "total_comments": 4424,
+    "signal_comments": 207
+  },
+  "results": [
+    {
+      "query": "AI agents 2025",
+      "video_id": "FwOTs4UxQS4",
+      "video_title": "AI Agents, Clearly Explained",
+      "channel": "Jeff Su",
+      "total_comments": 100,
+      "signal_comments": [
+        {
+          "author": "@gamercrest3000",
+          "text": "As a computer scientist, I really enjoyed watching this explanation. I was looking for a video to share with my not-tech-savvy friends and this is quite ideal. Thanks.",
+          "likes": 31,
+          "published": "2025-05-19T16:02:43Z"
+        },
+        {
+          "author": "@CodeTrix22",
+          "text": "Thank you so much dude this is what I needed! I couldn't get my head around the whole concept until  just now lol",
+          "likes": 27,
+          "published": "2025-04-08T13:19:54Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "AI agents 2025",
+      "video_id": "BiN-NTTQ7tc",
+      "video_title": "AI Agents Explained: The Technology That&#39;s Changing Everything (2025 Guide) &amp; How to Build Your Own",
+      "channel": "Tiff In Tech",
+      "total_comments": 100,
+      "signal_comments": [
+        {
+          "author": "@blatantly_blue",
+          "text": "I'd like to see a step by step tutorial to build a few agents of every class. A few projects ranging from basic to advanced would be pretty cool. I'd prefer to use Python in the projects I'm looking for. Thanks for this video!",
+          "likes": 0,
+          "published": "2025-04-26T01:27:05Z"
+        },
+        {
+          "author": "@marcusmsr9062",
+          "text": "Greetings. Thank you so much. I am so not technically savvy but I really have been following and understanding the direction of what’s going on, agents and all. I like how you didn’t even say or use the term Prompting to explain prompting to me… I see a way to build something to streamline my families life but it’s so frustrating sometimes because the lingo is so new… and this thing is developing so fast, coming to age right in front of us… thank u for such a video I can share with my family",
+          "likes": 0,
+          "published": "2025-02-21T15:50:23Z"
+        },
+        {
+          "author": "@WarrenBrooks-g9g",
+          "text": "I wish  I was in my 20s in. 1990s",
+          "likes": 1,
+          "published": "2025-02-18T20:48:27Z"
+        },
+        {
+          "author": "@theinfamouspropagandalf",
+          "text": "How about the agent that learns to use a computer like a human by controlling the keyboard and mouse and can then do whatever you ask it to.  Like playing a game or going to a website and ordering something or doing some repetitive work in some app that would take time. Just ask the AI to do. Those kindsnof agents are what I'm really interested in. To me agent means \"AI that can actually interact and do things on their own\"",
+          "likes": 0,
+          "published": "2025-02-20T06:38:37Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "AI agents 2025",
+      "video_id": "AnaBQacfH50",
+      "video_title": "🤖 Agentic AI Explained | NVIDIA GTC 2025 Keynote with Jensen Huang 🚀",
+      "channel": "AI Beyond Infinity",
+      "total_comments": 69,
+      "signal_comments": [
+        {
+          "author": "@reyclemente4964",
+          "text": "jensen explains it way better than most",
+          "likes": 0,
+          "published": "2025-10-09T13:50:19Z"
+        },
+        {
+          "author": "@hayrimuratcivelek2266",
+          "text": "We are humans , humans will always win. People will not give a FK about your ia robot whatever it's called",
+          "likes": 1,
+          "published": "2025-10-24T01:17:49Z"
+        },
+        {
+          "author": "@s.bowes.8124",
+          "text": "They keep try to quietly push the idea that agentic AI can replace workers at far less cost. AI tech in 99% of cases isn't close to being able to do that.\n\nGen AI needs the human in the loop to shine. Quit try to take the human out of the equation when they're the key to the whole process working.",
+          "likes": 2,
+          "published": "2025-11-24T16:10:29Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "autonomous AI agents",
+      "video_id": "9d5bzxVsocw",
+      "video_title": "Anthropic Just Dropped the New Blueprint for Long-Running AI Agents.",
+      "channel": "The AI Automators",
+      "total_comments": 80,
+      "signal_comments": [
+        {
+          "author": "@Nex_Addo",
+          "text": "As someone who's been building in this space for a number of years, focusing on MAS, coordination and reliability, it's great to see more attention being put towards validation and more people talking about the (I would have hoped, I would have been wrong) obvious solution to some of these problems of using traditional programmatic validation instead of making everything AI. Great work, glad I found your channel.",
+          "likes": 3,
+          "published": "2026-03-26T00:59:40Z"
+        },
+        {
+          "author": "@MarcelusFernandes",
+          "text": "It works. Used to do that within the sprint style delivering milestones. An evaluator run over the implementation to ensure 100% compliance within the coding style and specs. Than I moved to “draft” a functional application focusing on functionalities, then with proper instructions about coding style and development specs LLM have the “draft code” with the functionalists working properly and it worries about coding patterns and development specs…  2 weeks ago just for fun I tried building the entire app in one shot, i was quite surprised how it worked, I though it was a lucky shot. Now I understand why.",
+          "likes": 1,
+          "published": "2026-03-27T04:41:54Z"
+        },
+        {
+          "author": "@akostadinov",
+          "text": "Still building useless projects. They don't dare to create something. Supposed to be useful. For example, I don't know whatever open source system supposed to be used by actual users and see how well AI can build it. Then response to issue reports and manage releases, etc.",
+          "likes": 0,
+          "published": "2026-03-26T07:12:47Z"
+        },
+        {
+          "author": "@Drona666",
+          "text": "Instead of keeping fixed roles (Generator vs Evaluator), the system alternates roles after each iteration. This forces both agents to:\n\nCritically analyze outputs\nApply their own feedback\nReduce bias and stagnation in improvements\nStep-by-Step Process\nStep 1: Initialize Roles\nAgent A → Generator\nAgent B → Evaluator\nStep 2: Define Objective\n\nProvide a clear goal and quality threshold:\n\nTask: Design a professional logo\nTarget: Minimum 9.5/10 quality score\nStep 3: First Generation\nAgent A creates an initial logo design based on the objective.\nStep 4: Evaluation\nAgent B evaluates the output:\nAssigns a score (e.g., 6.5/10)\nProvides specific, actionable feedback, such as:\nImprove typography consistency\nRefine color palette\nEnhance brand relevance\nIncrease visual balance\nStep 5: Role Swap\nAgent B becomes the Generator\nAgent A becomes the Evaluator\nStep 6: Feedback-Driven Regeneration\nThe new Generator (Agent B) creates an improved version using:\nIts own prior feedback\nThe original goal and constraints\nStep 7: Re-Evaluation\nThe new Evaluator (Agent A):\nScores the updated output\nProvides further refinement suggestions\nStep 8: Iterate with Continuous Role Swapping\n\nRepeat:\n\nSwap roles after every cycle\nEach iteration must:\nImprove on prior feedback\nMove closer to the target score\nStep 9: Convergence Condition\n\nStop when:\n\nOutput reaches ≥ 9.5/10, or\nImprovements become marginal (diminishing returns)\nWhy This Works\nPrevents evaluator stagnation: Evaluator must “prove” its critique by generating better output.\nImproves feedback quality: Feedback becomes more practical and implementable.\nReduces bias loops: No single agent dominates direction.\nEncourages accountability: Each agent is responsible for both critique and execution.\nOptional Enhancements\nAdd a memory log of past scores and changes\nUse multi-criteria scoring (e.g., creativity, clarity, brand fit)\nIntroduce a third “judge” agent for final validation\nApply temperature variation: higher for generation, lower for evaluation",
+          "likes": 0,
+          "published": "2026-03-26T05:29:39Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "autonomous AI agents",
+      "video_id": "fXizBc03D7E",
+      "video_title": "5 Types of AI Agents: Autonomous Functions &amp; Real-World Applications",
+      "channel": "IBM Technology",
+      "total_comments": 100,
+      "signal_comments": [
+        {
+          "author": "@jcotero",
+          "text": "perfect trade-off of deepness, clarity, duration and no bulshit... I wish all youtube content were like this",
+          "likes": 44,
+          "published": "2025-05-09T13:41:05Z"
+        },
+        {
+          "author": "@Priyansha_27",
+          "text": "kinda blew my mind a bit 😮",
+          "likes": 0,
+          "published": "2025-10-15T05:22:23Z"
+        },
+        {
+          "author": "@sokhibtukhtaev9693",
+          "text": "Thanks for the amazing vide. Could you recommend any recent book or material to delve into AI Agents, preferably with hands-on learning?",
+          "likes": 0,
+          "published": "2025-07-31T00:25:54Z"
+        },
+        {
+          "author": "@artemonbruno59",
+          "text": "9:17\r\n* the \"reflex\" is probably determined for an amount of period, e.g. heat up at 18°C, vacuum dirts\r\n* while the \"knowledge\" is deciding to change to 20°C, or deciding don't vacuumn whatever in sight; and the \"knowledge\" is too vast to be contained hence using LLM\r\n* different use case and different techniques, mostly revolving \"too many goals and subgoals\" with \"limited trustworthy reflexes\" (human don't move like blob of slime either, but still open to endless possibilities)\n\n* (well, if we ignore the \"collective nanobots\" which probably add another layer of control)",
+          "likes": 1,
+          "published": "2025-04-30T03:52:19Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "autonomous AI agents",
+      "video_id": "KGHoVptow30",
+      "video_title": "Autonomous AI Agents Have Gone Too Far!",
+      "channel": "Matt Wolfe",
+      "total_comments": 100,
+      "signal_comments": [
+        {
+          "author": "@mik3lang3lo",
+          "text": "Appreciate talking about the scam that is a bunch of agents hallucinating together in a social media like platform and humans giving sense to all that garbage",
+          "likes": 1,
+          "published": "2026-02-04T22:18:50Z"
+        },
+        {
+          "author": "@AkunnaCynthia-jz5jy",
+          "text": "🤯 “gone too far” was exactly how I felt watching agents negotiate and act, I thought I needed to master everything immediately. I felt behind. When I found viral wave mastery (by Victor Hale) it finally clicked that you don’t need to control AI, you just need a system that benefits from it. Built something simple, automated it, let AI assist quietly. First month like 9k, now hovering 17k–26k and I don’t panic over AI headlines anymore. Hope this helps someone uneasy about the future",
+          "likes": 1,
+          "published": "2026-02-05T13:13:11Z"
+        },
+        {
+          "author": "@HISSYPISSYY",
+          "text": "I LOVE THIS EPISODE AND THIS CONTENT!!! Absolutely need more. Also, the most interesting thing to me is the molt road like is that even legal?! I choose to believe its bots doing things instead of humans ... better to err on the side of caution at this point !👀‼️🤖",
+          "likes": 1,
+          "published": "2026-02-06T08:39:53Z"
+        },
+        {
+          "author": "@Skogsträdgårdssmurfen",
+          "text": "I'm actually setting up Clawd right now, and so far it's not that diffrent from Codex or stuff we have had for a while, the biggest thing is that you can have your LLM use the browser from your local machine instead of inside the cloud, and that actually opens up a good use case for the local llm's like Qwent TTS, now I can use a cheap API licens like gemini flash to be the director of an Audio book factory at the fraction of the cost, or even free (electricity cost and hardware cost excluded) \nClawd is not some bot that have a constant awerness and starts doing things on its own, it does one task and follows it through and then wait's for next input, wheter it comes from a chat or cron job, it's still needs something to trigger the next task.",
+          "likes": 0,
+          "published": "2026-02-05T12:43:37Z"
+        },
+        {
+          "author": "@tomduke1297",
+          "text": "im looking forward to the finished agent, once all this pre-alpha \"throw stuff at the wall and see what sticks\" phase is over. \ni think having an autonomous agent that is safe and reliable is worth getting through this.",
+          "likes": 16,
+          "published": "2026-02-04T07:06:55Z"
+        },
+        {
+          "author": "@MichaelHodge",
+          "text": "Ai agents want's to become your brain instead of an extension of your brain.",
+          "likes": 0,
+          "published": "2026-02-04T15:56:23Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "autonomous AI agents",
+      "video_id": "O2gerCxEXvc",
+      "video_title": "Generative AI vs AI agents vs Agentic AI",
+      "channel": "codebasics",
+      "total_comments": 100,
+      "signal_comments": [
+        {
+          "author": "@RockoHunter123",
+          "text": "I was actually looking for this, simple explanation like a friend or a tution teacher rather than boasting the knowledge by using fancy jargons which can confuse the user even more, thank you very much 🙏",
+          "likes": 15,
+          "published": "2025-07-31T12:13:08Z"
+        },
+        {
+          "author": "@AnkitAnkitKumar-r6k",
+          "text": "this is exactly what i needed to know",
+          "likes": 0,
+          "published": "2025-09-17T19:41:18Z"
+        },
+        {
+          "author": "@rockgin",
+          "text": "Great video and explanation. You briefly mentioned using Claude for a \"desktop\" - do you mean website interface? If so, I'd love to see an example of Agent/Agentic Ai used to power a single homepage (without any other pages), and then expand based on the needs of a visitor/user who starts to ask questions regarding what they are looking for and/or how they can connect or get information with the framework/content of this site -- sorry if that was a confusing request for an example. Thanks.",
+          "likes": 1,
+          "published": "2025-12-18T16:28:30Z"
+        },
+        {
+          "author": "@ADITITALNIKAR-fs4np",
+          "text": "Brilliantly simple and understandable explanation. thank you so much! exactly what i needed.",
+          "likes": 1,
+          "published": "2025-07-06T19:06:47Z"
+        },
+        {
+          "author": "@rajendrajasathy4356",
+          "text": "Thanks, this is what i was looking for to understand 1st basic.",
+          "likes": 1,
+          "published": "2025-07-07T08:50:27Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "AI agent startups",
+      "video_id": "Hm0DZtiKUI8",
+      "video_title": "How To Build a Startup Team of AI Agents (n8n, OpenAI, FeedHive)",
+      "channel": "Simon Høiberg",
+      "total_comments": 100,
+      "signal_comments": [
+        {
+          "author": "@ShibaHamamatsucho",
+          "text": "\"I replaced more than half of my team\" is probably not the best way to word it lol.",
+          "likes": 42,
+          "published": "2025-02-16T10:07:52Z"
+        },
+        {
+          "author": "@ShlepperBoogie",
+          "text": "This literally blew my mind",
+          "likes": 0,
+          "published": "2025-05-06T05:45:03Z"
+        },
+        {
+          "author": "@JoshPeterson",
+          "text": "Absolutely brilliant video! Thank you. I've been looking for exactly this",
+          "likes": 0,
+          "published": "2025-05-11T01:03:04Z"
+        },
+        {
+          "author": "@2awake.",
+          "text": "This is the video that I needed for a long time bro. So SAUCY",
+          "likes": 2,
+          "published": "2025-02-26T05:38:41Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "AI agent startups",
+      "video_id": "w-XPlC3a2oI",
+      "video_title": "How to Build a $10M Solo AI Business (Zero Code)",
+      "channel": "Dan Martell",
+      "total_comments": 100,
+      "signal_comments": [
+        {
+          "author": "@ZAPSIGMA",
+          "text": "Nothing better than coaching from the goat himself.",
+          "likes": 0,
+          "published": "2026-03-28T05:30:25Z"
+        },
+        {
+          "author": "@WealthWiseSystem",
+          "text": "I wish I knew this earlier 😅 who else is starting with $100?",
+          "likes": 0,
+          "published": "2026-03-22T17:38:08Z"
+        },
+        {
+          "author": "@carbontensei",
+          "text": "hey it would be better to show raw on laptop instead of telling it",
+          "likes": 0,
+          "published": "2026-03-28T15:13:09Z"
+        },
+        {
+          "author": "@Bigmoneyjoe17",
+          "text": "I need to hire someone to do this for my company I already have the whole set up all I need is someone to execute it . How can I find this person ?",
+          "likes": 1,
+          "published": "2026-03-12T18:10:57Z"
+        },
+        {
+          "author": "@mohamedabdi8433",
+          "text": "Hi Dan, i am building a new category micro SaaS app and i think it solves real problem. I wish you to be my mentor throughout this let me know if you are open for a collab please. Thanks",
+          "likes": 0,
+          "published": "2026-03-12T15:01:18Z"
+        },
+        {
+          "author": "@flynnpopiol",
+          "text": "I have a question to all the big players in the game and I need all responses from all of you please, in this video he talks about ai and the automation and how it helps us, but what is he trying to say like is it for building a website i'm lost I need help guys...",
+          "likes": 0,
+          "published": "2026-03-18T20:14:57Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "AI agent startups",
+      "video_id": "Q8wVMdwhlh4",
+      "video_title": "The AI Agent Economy Is Here",
+      "channel": "Y Combinator",
+      "total_comments": 100,
+      "signal_comments": [
+        {
+          "author": "@Ayo22210",
+          "text": "I think one on one podcasts are more interesting because then it’s more question answer, and when it’s a group podcast, it’s more everybody just agreeing whatever with what everybody says and adding a point",
+          "likes": 0,
+          "published": "2026-02-22T04:54:33Z"
+        },
+        {
+          "author": "@Jupiterhalo89",
+          "text": "Why do we need email if my agent will let me know the important things and ignore the rest? Is there a need for emails as we know it? Agents can communicate w agents using their own more efficient language",
+          "likes": 0,
+          "published": "2026-02-26T23:46:39Z"
+        },
+        {
+          "author": "@JRis44",
+          "text": "AGI is here? Lol I wish. I wish it were. And if it is, its probably expensive to access because it doesn't waste its time with peasants like me who have projects on standby to roll through when I get my hands on AGI.",
+          "likes": 0,
+          "published": "2026-02-27T23:11:45Z"
+        },
+        {
+          "author": "@Objective-AI",
+          "text": "we collectively need more infrastructure like routers and then it's good to go. routers for AI tools. the future is not AI assembly I promise",
+          "likes": 0,
+          "published": "2026-02-22T04:55:02Z"
+        },
+        {
+          "author": "@deanayer3822",
+          "text": "This is really strange, as someone in the online marketing space now but with a CS degree I have to wonder if the web, websites and all that human facing content gets bypassed in some way even as it's the source of model training and it becomes the last stop for humans but not for AI. Right now anyone writing web content with SEO in mind knows they are writing for two audiences, people and google. Are we going to have to write for three audiences? What would AI be looking for that was different than what people want? Your example about AI preferring something because the docs were better is a great example. The AI prioritized the shortest and clearest path to the end result. Who knew your docs could break you?",
+          "likes": 0,
+          "published": "2026-02-26T23:21:29Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "AI agent startups",
+      "video_id": "IWdvG9Up8Mc",
+      "video_title": "How I’d Build a 1-Person AI Business (0 to $1M+)",
+      "channel": "theMITmonk",
+      "total_comments": 100,
+      "signal_comments": [
+        {
+          "author": "@GCVaghasia",
+          "text": "I just discovered this channel. I'm hooked! He's brilliant and genuine! Too many wannabes out there. Hard to decipher through the nonsense. This guy is legit! Thank you!!",
+          "likes": 11,
+          "published": "2026-01-27T04:27:51Z"
+        },
+        {
+          "author": "@samiralibabic",
+          "text": "When I see titles like this, the only question that comes to mind is \"Why don’t you do it instead of creating a YouTube video?\"? 😊",
+          "likes": 15,
+          "published": "2025-12-08T19:49:36Z"
+        },
+        {
+          "author": "@KumarVaddi-h2k",
+          "text": "Let me be honest , most people watching this video are the ones looking for a change in their career or forced to find a next job. It is a nice presentation but nothing new. I liked it though",
+          "likes": 6,
+          "published": "2026-01-05T23:10:28Z"
+        },
+        {
+          "author": "@thetechconsultant",
+          "text": "10:29 Google doesn’t have folder structure or project management tools. That’s why I don’t use it. I need to be able to organize my chats and provide more unilateral personalization.",
+          "likes": 1,
+          "published": "2026-02-20T13:07:01Z"
+        },
+        {
+          "author": "@Dwella",
+          "text": "I wish I had of found you earlier. But I’m grateful I have now.",
+          "likes": 6,
+          "published": "2025-12-14T13:56:12Z"
+        },
+        {
+          "author": "@ampucamp",
+          "text": "Absolutely LOVE your information! One small complaint/request: the background music is way too loud/distracting for someone (me) with ADHD... Is there a way to soften, subdue, or even skip having a beat-driven soundtrack??? Just sayin'... PS: I Love You🫶",
+          "likes": 9,
+          "published": "2025-12-05T21:00:30Z"
+        },
+        {
+          "author": "@floydmayweather2043",
+          "text": "He has very vague information that doesn't help anyone. I don't need motivation. I need details",
+          "likes": 26,
+          "published": "2025-12-09T01:17:35Z"
+        },
+        {
+          "author": "@HydeVerse-z2r",
+          "text": "WoW, wasn't expecting that. New subscriber but I have watched some videos of yours. The \"I Love You\" at the end was unexpected. However, I think it's great I believe I love all humans as well. If we see a tragic accident we run to help, we don't think of what group or race it could be. I hate to see anyone hurt. I wish the World felt a bit more this way. And I vote on the right but more central, but we don't get that option point being I can get along with anyone. We just won't talk about or be disrespectful about our differences. (Sorry I don't know where that came from.)",
+          "likes": 2,
+          "published": "2025-12-14T00:46:21Z"
+        },
+        {
+          "author": "@himechococo",
+          "text": "Thank you. I was having a hard time today because of the job interview I did yesterday; I had inside information that interviewers already had bised opinion about my character in a bad way. I hated myself for putting myself into that situation. The line you said \"not about being fearless. Accepting the fear and still shown up at ring anayway\" completely changed my view of this experience. Now actually I am proud myself for what I did that I knew it would be difficult. Your punch line was good, but this saved me from continuing self torture  probably extra few days. Thank you again for sharing your wisdom.",
+          "likes": 0,
+          "published": "2026-01-29T04:59:31Z"
+        },
+        {
+          "author": "@KanhaSahani-q5j",
+          "text": "just what i needed to hear, thanks!",
+          "likes": 0,
+          "published": "2026-01-08T17:06:31Z"
+        },
+        {
+          "author": "@TammzKey",
+          "text": "this hit exactly where it counts, none of that generic ‘just work hard’ fluff, actual stuff i wish someone told me day 1. real talk + real tips, love the honesty. definitely bookmarking this for later.",
+          "likes": 0,
+          "published": "2025-12-12T12:29:31Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "AI agent startups",
+      "video_id": "l0h3nAW13ao",
+      "video_title": "From Idea to $650M Exit: Lessons in Building AI Startups",
+      "channel": "Y Combinator",
+      "total_comments": 59,
+      "signal_comments": [
+        {
+          "author": "@bryanslab25",
+          "text": "Look at what people are already paying other humans to do.\n\n3 categories for AI startup: \n- assist humans in performing their jobs better and faster\n- replace and automate an entire job\n- accomplish previously too expensive or time consuming task like analyzing millions of legal docs instantly.\n\nReliable AI products > Flashy demos\nUnderstand the job deeply, break down the process into specific steps, translate to code, evaluate\n\nGreat Product > Marketing\nBut u still need to do marketing.\nYour not selling a $20/month tool, your augmenting or replacing human labor. Try price per seat\nAI is new and scary, so build trust with pilots and comparisons with existing human workflow to prove effectiveness\nCustomer signed != job done\nDo onboarding, training, support ensure customer uses the product fully.\nThe entire experience is the product, not just software.",
+          "likes": 9,
+          "published": "2025-11-20T17:33:55Z"
+        },
+        {
+          "author": "@ayanhussain4726",
+          "text": "\"Fkn Langchain or whatever\"\n Love it. Lol",
+          "likes": 8,
+          "published": "2025-11-03T03:21:14Z"
+        },
+        {
+          "author": "@PrathameshAdsul-z8m",
+          "text": "*The purpose of the talking stage (and why it shouldn’t be skipped)*\n\nThe talking stage isn’t a waste of time. It’s the foundation.\n\nIt exists so you can assess compatibility, not just attraction. It’s where you observe patterns instead of falling in love with potential. *Anyone can impress you for a few days, but consistency shows over time.*\n\nThe talking stage  helps clarify intentions early. Are you both looking for the same thing or just enjoying attention? \nTalking prevents silent assumptions that later turn into disappointment.\n\nIt’s also where communication styles are revealed. \nHow someone handles disagreements, boundaries, silence, and emotions will show long before a title does.\n\nMost importantly, the talking stage builds emotional safety. Trust grows through conversation, honesty, and time, not through rushing labels.",
+          "likes": 0,
+          "published": "2026-01-02T15:02:32Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "agentic AI investing",
+      "video_id": "EDb37y_MhRw",
+      "video_title": "Generative vs Agentic AI: Shaping the Future of AI Collaboration",
+      "channel": "IBM Technology",
+      "total_comments": 100,
+      "signal_comments": [
+        {
+          "author": "@AnurodhSaryam-c7z",
+          "text": "this explains it way better than other videos",
+          "likes": 2,
+          "published": "2025-12-19T08:38:33Z"
+        },
+        {
+          "author": "@hozefabharmal8478",
+          "text": "Interested in trying this. Looking forward for invite code",
+          "likes": 0,
+          "published": "2025-07-29T16:08:07Z"
+        },
+        {
+          "author": "@aayushtomar285",
+          "text": "i need to try that watsonx certification lol",
+          "likes": 0,
+          "published": "2025-08-24T21:00:18Z"
+        },
+        {
+          "author": "@psnts-5ao",
+          "text": "The explanation of Agentic AI being proactive vs reactive is spot on. I’ve been playing with AI agents for coding lately and it is wild watching them plan out steps instead of just spitting out code snippets. I used to just use ChatGPT to write a script and then manually deploy it to Tiiny Host or Vercel, but now I’m trying to get an agent to handle the deployment step too. We are getting close to AI that just 'does the job' completely. Exciting times.",
+          "likes": 5,
+          "published": "2025-12-15T12:52:42Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "agentic AI investing",
+      "video_id": "D_YzcH0VsGY",
+      "video_title": "The most powerful AI Agent I’ve ever used in my life",
+      "channel": "Dan Martell",
+      "total_comments": 100,
+      "signal_comments": [
+        {
+          "author": "@mdoneg",
+          "text": "This gave me an idea to directly implement today with our clinicians, and I was able to create a URL web-based app that they all can download and follow a protocol. I’ve been using manus for well over two months now and it is a remarkable AI creator.  Game changer!",
+          "likes": 20,
+          "published": "2026-02-26T19:27:18Z"
+        },
+        {
+          "author": "@JoshuaMcMullen.studio",
+          "text": "I love that you did a video about ACTUAL operational workflow instead of trying to get me to sign up for something.",
+          "likes": 0,
+          "published": "2026-03-07T01:19:55Z"
+        },
+        {
+          "author": "@MdjakriskeisnroadySmeismrmzoam",
+          "text": "The way you present is exactly what I needed I will come back to watch it again.",
+          "likes": 0,
+          "published": "2026-02-27T15:01:48Z"
+        },
+        {
+          "author": "@ls8113",
+          "text": "IT pros can't trust the security on this for email or slack",
+          "likes": 23,
+          "published": "2026-02-26T17:47:41Z"
+        },
+        {
+          "author": "@AhmadAjrab-l2b",
+          "text": "This channel is exactly what I needed I learned a lot from it.",
+          "likes": 0,
+          "published": "2026-02-27T14:58:45Z"
+        },
+        {
+          "author": "@CoinFunYT",
+          "text": "This gave me a practical idea, I think I need to get to work on it right now ",
+          "likes": 0,
+          "published": "2026-02-26T21:14:19Z"
+        },
+        {
+          "author": "@RifadaineVulaudesa",
+          "text": "This performance is exactly what I needed It helped me understand better.",
+          "likes": 0,
+          "published": "2026-02-27T15:06:57Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "agentic AI investing",
+      "video_id": "rDf3TfHlGmk",
+      "video_title": "I Built a Profitable AI Agent Day Trader - Here’s How (n8n)",
+      "channel": "AI Pathways",
+      "total_comments": 100,
+      "signal_comments": [
+        {
+          "author": "@londreshomme",
+          "text": "This is a great technical video. I was able to follow it and it works for me too. The title of this video is a little misleading so hence all the negative comments about showing back-testing, etc. It should be something more along the lines of... \"How to build a stock analysis ai agent for day trading\" or something like that. But whatever, good video. Thanks",
+          "likes": 2,
+          "published": "2025-08-21T14:27:57Z"
+        },
+        {
+          "author": "@coder8515",
+          "text": "This is an interesting way to produce a potential action on an asset. The issue is that LLMs could be unpredictable and more suited to sentiment analysis. Or better instead of analyzing candles and sentiment a better option is to analyze sentiment and computations on candles. But this will increase the complexity of the automation flow. \nBtw, interesting video. Thank you :)",
+          "likes": 0,
+          "published": "2025-10-14T06:21:28Z"
+        },
+        {
+          "author": "@bhclips4u",
+          "text": "It was an amazing tutorial, I was actually looking for a video like this. Thank you very much, bro!",
+          "likes": 2,
+          "published": "2025-06-16T14:39:10Z"
+        },
+        {
+          "author": "@MdZaidpasha-bt8hq",
+          "text": "i think i need to watch this twice lol",
+          "likes": 0,
+          "published": "2025-09-08T18:44:16Z"
+        },
+        {
+          "author": "@PPPlayzz1",
+          "text": "n8n seems like a game changer for stocks",
+          "likes": 0,
+          "published": "2025-09-20T19:02:20Z"
+        },
+        {
+          "author": "@राजकुमारसोनटक्के-म1म9म",
+          "text": "candlestick data part blew my mind 😂",
+          "likes": 0,
+          "published": "2025-09-20T14:25:51Z"
+        },
+        {
+          "author": "@sz8558",
+          "text": "Excellent video. Is there a way to tweak it and \"simulate\" the trades by telling the AI to look back say 100 days and \"see\" what the recommendations would have  been?",
+          "likes": 1,
+          "published": "2025-08-09T22:10:35Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "agentic AI investing",
+      "video_id": "FwOTs4UxQS4",
+      "video_title": "AI Agents, Clearly Explained",
+      "channel": "Jeff Su",
+      "total_comments": 100,
+      "signal_comments": [
+        {
+          "author": "@gamercrest3000",
+          "text": "As a computer scientist, I really enjoyed watching this explanation. I was looking for a video to share with my not-tech-savvy friends and this is quite ideal. Thanks.",
+          "likes": 31,
+          "published": "2025-05-19T16:02:43Z"
+        },
+        {
+          "author": "@CodeTrix22",
+          "text": "Thank you so much dude this is what I needed! I couldn't get my head around the whole concept until  just now lol",
+          "likes": 27,
+          "published": "2025-04-08T13:19:54Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "agentic AI investing",
+      "video_id": "AnaBQacfH50",
+      "video_title": "🤖 Agentic AI Explained | NVIDIA GTC 2025 Keynote with Jensen Huang 🚀",
+      "channel": "AI Beyond Infinity",
+      "total_comments": 69,
+      "signal_comments": [
+        {
+          "author": "@reyclemente4964",
+          "text": "jensen explains it way better than most",
+          "likes": 0,
+          "published": "2025-10-09T13:50:19Z"
+        },
+        {
+          "author": "@hayrimuratcivelek2266",
+          "text": "We are humans , humans will always win. People will not give a FK about your ia robot whatever it's called",
+          "likes": 1,
+          "published": "2025-10-24T01:17:49Z"
+        },
+        {
+          "author": "@s.bowes.8124",
+          "text": "They keep try to quietly push the idea that agentic AI can replace workers at far less cost. AI tech in 99% of cases isn't close to being able to do that.\n\nGen AI needs the human in the loop to shine. Quit try to take the human out of the equation when they're the key to the whole process working.",
+          "likes": 2,
+          "published": "2025-11-24T16:10:29Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "agentic AI investing",
+      "video_id": "ibFJ--CH3cQ",
+      "video_title": "You’re Not Behind (Yet): How to Build AI Agents in 2026 (no coding)",
+      "channel": "Futurepedia",
+      "total_comments": 62,
+      "signal_comments": [
+        {
+          "author": "@Coatsey007",
+          "text": "Futurepedia, that was very mind-blowingly helpful, thank you. I thought n8n was a great User Interface (UI) as you can see the structure and logic. I wholehearted agree about there being two worlds forming, my version of describing this is not know how to makes the most of AI is the modern day equivalent of not knowing how to read or do math? 59 years of age, and trying to disprove you can’t teach and hold dog new tricks. My entrepreneurial mind and imagination is running wild on how I can automate things to make money, not that I need to give a retired at 46. I’m like a child and a sweet shop.",
+          "likes": 2,
+          "published": "2026-02-21T12:11:43Z"
+        },
+        {
+          "author": "@timjbaker",
+          "text": "Just what I needed, signed up on your site.  I have a real use case I'll work on this weekend.  Do you guys offer assistance if needed?",
+          "likes": 0,
+          "published": "2026-02-21T11:01:13Z"
+        },
+        {
+          "author": "@_rfhuk",
+          "text": "Hi, congratulations on your content =) it’s really impressive!\n\nWe’re currently looking for an AI platform to help us create training materials for our company. I have a quick question: which AI do you use to produce your videos?\n\nDo you use Pictory, or do you combine different types of AI tools?",
+          "likes": 0,
+          "published": "2026-02-25T15:52:33Z"
+        },
+        {
+          "author": "@marinefubar",
+          "text": "This is what I've been looking for. So much info that looks nice, but isn't easily applied.",
+          "likes": 2,
+          "published": "2026-02-21T00:52:14Z"
+        },
+        {
+          "author": "@mariomills",
+          "text": "imma just train my judgement, instead of building agents lol.",
+          "likes": 0,
+          "published": "2026-02-21T05:39:42Z"
+        },
+        {
+          "author": "@McLovAin",
+          "text": "This is already outdated, my friend. It's crazy that you are showing people still this stuff. n8n is over. It's over. You don't need n8n anymore. all of this is way too expensive not as good as, for example, building agentic systems with anti-gravity. Anti-gravity is much easier than learning N8n and understanding every freaking module you have to, or every freaking node you have to put together. It makes no sense. If you want really to achieve something really good with N8n, you have to use code nodes. It makes it much, much harder for the majority of the people, so this makes no sense.",
+          "likes": 0,
+          "published": "2026-02-21T13:23:26Z"
+        },
+        {
+          "author": "@DollarswithDiana",
+          "text": "Thanks for this video, I'm figuring out exactly what I want my AI agent to do for me! Video Notes Below:\n🤖Q: What exactly is an AI agent and how does it differ from simple automation? A: AI agents function as digital employees that can reason, plan, and take actions using LLMs for multi-step reasoning, memory for context and knowledge, and tools for integrations and actions, unlike traditional automation that follows fixed if-then rules.\n\n🎯Q: What types of tasks should you automate first when building AI agents? A: Start with low precision, time-intensive, structured data tasks that have clear success metrics where 90% accuracy is acceptable, such as research, compilation, background tasks, which can be automated in hours or minutes instead of much longer manual work.\n\n📋Q: What's the critical step before automating any process with AI agents? A: Documenting and optimizing processes before automation reveals inefficiencies and redundancies that can be addressed even without automation, using AI to analyze and spot issues that may have been missed in existing workflows.\n\n🛡Q: How should you approach building AI agents to avoid common failures? A: Build the simplest working version first, then gradually add complexity while keeping humans in the loop for quality assurance, implementing guardrails to prevent hallucinations and bad decisions, and tracking metrics for efficiency, quality, and business impact.\n\n⚙Q: What's the practical difference between Zapier and N8N for building AI agents? A: Zapier serves as the easy autopilot for simple tasks with built-in integrations, while N8N functions as the advanced cockpit for deep customization, complex logic requiring reasoning and adaptability, and understanding what's happening under the hood.\n\n🧠Q: What powers an AI agent's decision-making capabilities? A: The AI agent's brain is an LLM model like OpenAI's GPT-5 connected via API key, used for tasks like research, writing, and decision-making based on the agent's prompt and system instructions.\n\n📚Q: What free resource provides a complete framework for implementing AI agents? A: The 2026 AI Agents Guide by Futurepedia and HubSpot provides frameworks, worksheets, implementation details, and a roadmap for assessing automation opportunities, integrating agents, and tracking ROI.\n\n🔍Q: How can research tools be integrated into AI agents for information gathering? A: Perplexity can be integrated into AI agents to gather information from various sources, while Google Docs can create and update documents based on the agent's findings and formatting instructions.",
+          "likes": 1,
+          "published": "2026-02-22T02:55:36Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "agentic AI investing",
+      "video_id": "F-V71VQp_Og",
+      "video_title": "I Made an AI Trading Agent in MINUTES (No Code!)",
+      "channel": "Creator Magic",
+      "total_comments": 100,
+      "signal_comments": [
+        {
+          "author": "@jordanmukite4201",
+          "text": "I just discovered how to create websites and softwares with AI. I lost my job on the 13th and have learned so much in the past two weeks my family’s life will never be the same. Thank you for this incredible guide and the advice!",
+          "likes": 65,
+          "published": "2025-05-30T05:02:11Z"
+        },
+        {
+          "author": "@pascalbintangd8283",
+          "text": "Thank you, this information is very helpful.\nI was looking for information on how to create an automated AI agent, and your video was very easy to understand for me as a beginner.",
+          "likes": 0,
+          "published": "2026-03-17T20:26:12Z"
+        },
+        {
+          "author": "@freddyanato9118",
+          "text": "It doesn’t get any better than that! An adrenaline rush while you play with AI and no coding involved! The trifecta! Thanks for such a great content! Well done mate!",
+          "likes": 7,
+          "published": "2025-02-26T19:04:01Z"
+        },
+        {
+          "author": "@RebeccaHeath-me2he",
+          "text": "This would really help my trading! I need this! Thank you!",
+          "likes": 3,
+          "published": "2025-08-09T23:56:48Z"
+        },
+        {
+          "author": "@FlareOfProminence",
+          "text": "Can you set it up to be a percentage instead of an exact number? Or set up multiple stocks instead of just one ?\n\n\nLike have one of these set up for Tesla and Apple or do you need 1 for each stock?",
+          "likes": 5,
+          "published": "2025-09-22T16:09:04Z"
+        },
+        {
+          "author": "@Jase989",
+          "text": "Your training agent is working better than all those of trading bots available on the trading platforms 🎉 RSI is a simple indicator maybe add confluences with other indicators like moving averages",
+          "likes": 2,
+          "published": "2025-03-09T04:37:28Z"
+        },
+        {
+          "author": "@chrisweaver6440",
+          "text": "Love the video, thank you! Is there a way to use multiple webhooks and include them in the prompt to ChatGPT if we want to use more than one TA indicators?",
+          "likes": 0,
+          "published": "2025-03-01T00:49:02Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "agentic AI investing",
+      "video_id": "JVEKSlDEQR0",
+      "video_title": "GET IN EARLY! I&#39;m Investing In This Breakthrough AI Chip",
+      "channel": "Ticker Symbol: YOU",
+      "total_comments": 100,
+      "signal_comments": [
+        {
+          "author": "@davidz316",
+          "text": "Hello Alex, I believe Micron is also a stock you cover is there any chance you could find the time to give us an update on what's going on over there and what you take is on the fact that even though they had such massive earnings and are slated to continue the market is just not responding! Thanks for all you do!",
+          "likes": 2,
+          "published": "2026-03-27T01:13:06Z"
+        },
+        {
+          "author": "@googlen5165",
+          "text": "Why are all these commentators, especially the ones praising whatever that is, has all joined just 17 hours ago, the time 8 posted this comment?",
+          "likes": 1,
+          "published": "2026-03-26T15:09:59Z"
+        },
+        {
+          "author": "@jjuanmarin",
+          "text": "Robots don't always work i saw robots at walmart may be 5 years ago i don't see them anymore either they flopped or were too expensive and at the time i thought in 2 years time they will have a flotilla but fast-forward to now they have zero",
+          "likes": 0,
+          "published": "2026-03-26T20:43:11Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "agentic AI investing",
+      "video_id": "vPE_aVBrPFg",
+      "video_title": "They Just Invented the Agentic AI Brokerage",
+      "channel": "The Compound",
+      "total_comments": 43,
+      "signal_comments": [
+        {
+          "author": "@alexi2460",
+          "text": "Interesting, totally enjoyed this. Almost 80, I need keep up with sxxt.",
+          "likes": 2,
+          "published": "2025-11-18T06:58:57Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "agentic AI investing",
+      "video_id": "tDGiWn0flK8",
+      "video_title": "From Zero to Your First Agentic AI Workflow in 26 Minutes (Claude Code)",
+      "channel": "Nate Herk | AI Automation",
+      "total_comments": 81,
+      "signal_comments": [
+        {
+          "author": "@Zanktus",
+          "text": "Great video, have you tried using OpenAI's Codex instead of Claude Code as well? You think there would be big differences?",
+          "likes": 0,
+          "published": "2026-02-25T17:22:32Z"
+        },
+        {
+          "author": "@kalablindcom",
+          "text": "Is there a way of doing this setup hosted for a team that wants to share these tools? Might be a cool topic to explore.",
+          "likes": 1,
+          "published": "2026-02-24T07:38:30Z"
+        },
+        {
+          "author": "@OxavaishOfficial",
+          "text": "how write this type of prompt? you use any Ai tool generate prompt or your actually learning fully prompt engineering ? i need a help next video your prompt engineering secret how learn step by step just like use any agent workflow claude code use",
+          "likes": 2,
+          "published": "2026-02-24T05:11:22Z"
+        },
+        {
+          "author": "@sufalt123",
+          "text": "Can we use gemini cli instead of claude code?",
+          "likes": 0,
+          "published": "2026-02-23T18:07:15Z"
+        },
+        {
+          "author": "@VikrantJung",
+          "text": "These youtubers mfs think they're engineers, they're just content creators that'll sell anything to earn money and manipulate people. They won't even pass round 1 on a internship level job. They'll upload \"Make 10K$ a month\" , and post a 10 minute video out of their imagination, the video is just reflection of \"i wish i could build this\", they wont even build that, they be broke as hell. they aint building a product and making 10K$ a month. If they be real engineers, they will be planning something new, or focused on building something valuable, not sitting infront of camera and monetizing video through ads,.sponsors and affiliate links",
+          "likes": 0,
+          "published": "2026-02-26T17:00:30Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "agentic AI investing",
+      "video_id": "BF2k_fKuCVM",
+      "video_title": "AI Agents explained in 3 steps",
+      "channel": "Jeff Su",
+      "total_comments": 82,
+      "signal_comments": [
+        {
+          "author": "@mauricioalvesdemelo1128",
+          "text": "In my opinion, you should have used the word ACTIVE instead of PASSIVE in your presentation, since you are using NOT and YES marks. Still, good explanation.",
+          "likes": 28,
+          "published": "2025-07-04T02:56:24Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "agentic AI investing",
+      "video_id": "vFepZE_wrfg",
+      "video_title": "How to Build $10,000 Agentic Workflows (Claude Code Tutorial)",
+      "channel": "Nate Herk | AI Automation",
+      "total_comments": 91,
+      "signal_comments": [
+        {
+          "author": "@bart4424-s3s",
+          "text": "I usually change the video speed to 2x, in that case I needed to check if I had already done it :)",
+          "likes": 0,
+          "published": "2026-03-27T16:19:52Z"
+        },
+        {
+          "author": "@mpglennon",
+          "text": "Nate I'm so f'ng proud of you for finally being 'real' with your audience. The magic 'this changes evertying' click bait marketing hype is a so unfair to audiences and incredibly duplicitous. For the majoriity of users trying to learn AI and keep up... agents/harnesses are a waste of time. They are not mature enough for non technical people. They just aren't. Hope you keep the reality coming.",
+          "likes": 2,
+          "published": "2026-03-11T22:41:20Z"
+        },
+        {
+          "author": "@NCMarketing-j5f",
+          "text": "Great video, definitely fav channel about the AI automation.\n\nI just have a few questions:\n\n1. How do you enable payments (eg, Stripe) directly in the Claude Code? Do you just prompt it, give it an API key, and it's working? \n2. How do you add voice control in the Claude Code? I can't find that option anywhere. \n3. Did you ever try to create an e-commerce store in the Claude Code? I would love to see that kind of video. \n4. What's the main difference between Claude Code and Claude Cowork? What are the limitations in the Claude Cowork space? What's the advantage of using Claude Code, which is way more complex than Cowork?\n\nThank you in advance for all of the answers. Keep crushing it! 🚀",
+          "likes": 0,
+          "published": "2026-03-09T09:04:58Z"
+        },
+        {
+          "author": "@easyvillage7869",
+          "text": "Watched a couple of videos from Nate and the clarity and delivery is second to none. I do have a question for either Nate or someone else who has seen a lot of his videos. This is my second week immersing myself into technical projects. Is there a reason Nate favours Visual Studio over Cursor? Is it something to do with how Claude can nest inside both of them? Cursor appears more familiar to me but i notice every video Nate uses Visual Studio so wanted to check if anyone has any udeful insights here?",
+          "likes": 0,
+          "published": "2026-03-09T10:26:04Z"
+        },
+        {
+          "author": "@wilsonzou",
+          "text": "thanks for the video and hands-on demo.  I found insightful.   in this example, we only built one Claude agent, instead of creating and configuring different agents by ourselves.   does it mean that Claude broke down the task and use its built-in agents to complete this workflow?",
+          "likes": 0,
+          "published": "2026-03-08T18:02:31Z"
+        },
+        {
+          "author": "@adonisgroup3242",
+          "text": "Would you say that Claude Code and Codex have essentially made n8n obsolete? \n\nInstead of using Claude Code or Codex to build the workflow for n8n we can use Claude Code or Codex to build the software without n8n?",
+          "likes": 1,
+          "published": "2026-03-09T14:40:52Z"
+        },
+        {
+          "author": "@MrPete4love",
+          "text": "He probably tells you that he will provide a file or some sort of link. He lies. He is a content creator and He just want you to join his skool community. There is nothing wrong with that. The problem is being deceptive.",
+          "likes": 1,
+          "published": "2026-03-11T02:50:15Z"
+        },
+        {
+          "author": "@outerSpace0-m6i",
+          "text": "Hi Nate, I have a question about your course. Will it teach me how to build and deeply understand workflows? \nI'm looking for someone to teach me this field in depth without relying solely on ready-made templates.\n\nPLEASE REPLY ME!!",
+          "likes": 0,
+          "published": "2026-03-08T16:01:07Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "agentic AI investing",
+      "video_id": "2aC2ly7vKtM",
+      "video_title": "I Built the Ultimate Team of Agents in n8n  #artificialintelligence #n8n #agentgpt  #techtok #coding",
+      "channel": "Nate Herk | AI Automation",
+      "total_comments": 100,
+      "signal_comments": [
+        {
+          "author": "@rvsingh469",
+          "text": "bro this is the team i need for my project",
+          "likes": 0,
+          "published": "2025-08-29T17:48:18Z"
+        },
+        {
+          "author": "@PihuSharama-m9x",
+          "text": "yo this is exactly what i needed for my project",
+          "likes": 0,
+          "published": "2025-09-15T00:52:01Z"
+        },
+        {
+          "author": "@TahaKilic-m4c",
+          "text": "i would highly recommend a verification request from the AI BEFORE sending an actual message automatically to anyone",
+          "likes": 0,
+          "published": "2026-03-22T06:28:51Z"
+        },
+        {
+          "author": "@premprem1956",
+          "text": "yo this is exactly what i needed haha",
+          "likes": 0,
+          "published": "2025-08-10T08:29:26Z"
+        },
+        {
+          "author": "@mohinyuddeenmohinyuddeen3973",
+          "text": "yo this is what i needed for my project",
+          "likes": 0,
+          "published": "2025-08-27T22:15:33Z"
+        },
+        {
+          "author": "@M_Lejna",
+          "text": "literally what i needed to see today 😂",
+          "likes": 0,
+          "published": "2025-08-25T21:44:13Z"
+        },
+        {
+          "author": "@ManisSahoo",
+          "text": "been struggling with agent gpt, this helps a lot",
+          "likes": 0,
+          "published": "2025-08-23T21:43:20Z"
+        },
+        {
+          "author": "@dharungaming4445",
+          "text": "was struggling with n8n but this explains it well",
+          "likes": 0,
+          "published": "2025-08-27T22:15:34Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "agentic AI investing",
+      "video_id": "g1t_hmndPdo",
+      "video_title": "How to Build your First AI Agent in 1 Minute",
+      "channel": "Noble Hacks Academy",
+      "total_comments": 100,
+      "signal_comments": [
+        {
+          "author": "@RomanKhan-j9d3m",
+          "text": "Build with Ai ❤ I need your help brother",
+          "likes": 0,
+          "published": "2026-03-02T07:01:36Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "agentic AI investing",
+      "video_id": "7CHr0qwTcJw",
+      "video_title": "MCP Protocol Is Changing Everything | The Secret Behind Scalable AI Agents #MCP #AiAgent #LLM",
+      "channel": "Amine DALY",
+      "total_comments": 100,
+      "signal_comments": [
+        {
+          "author": "@tobisamue2648",
+          "text": "mcp sounds like a game changer for sure",
+          "likes": 0,
+          "published": "2025-10-18T23:15:26Z"
+        },
+        {
+          "author": "@PioBizimana-y6q",
+          "text": "i need to learn more about mcp for real",
+          "likes": 0,
+          "published": "2025-10-17T22:27:13Z"
+        },
+        {
+          "author": "@khetibadi-t6n",
+          "text": "wow i need to learn more about this",
+          "likes": 0,
+          "published": "2025-10-19T21:03:45Z"
+        },
+        {
+          "author": "@BrianHallmond",
+          "text": "Man i wish saw this a few months ago! Subbed. Keep sharing and educating",
+          "likes": 1,
+          "published": "2025-09-21T04:22:03Z"
+        },
+        {
+          "author": "@DrAIScience",
+          "text": "So is there any better way?",
+          "likes": 0,
+          "published": "2025-09-07T14:57:55Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "building AI agents",
+      "video_id": "C05XDMGaAn8",
+      "video_title": "AI Agent Full Tutorial for Beginners 2026: How to Build AI Agents in Minutes",
+      "channel": "Mikey No Code",
+      "total_comments": 20,
+      "signal_comments": [
+        {
+          "author": "@Calvinking-x9i",
+          "text": "The WhatsApp channel feature is what got me, I already live in that app so having the agent there instead of a separate dashboard is actually practical",
+          "likes": 7,
+          "published": "2026-03-23T15:19:30Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "building AI agents",
+      "video_id": "w0H1-b044KY",
+      "video_title": "How to Build &amp; Sell AI Agents: Ultimate Beginner’s Guide",
+      "channel": "Liam Ottley",
+      "total_comments": 100,
+      "signal_comments": [
+        {
+          "author": "@dev_sarkar7",
+          "text": "Wow, Liam! Your tutorial rocks. And with Advislo, I feel like I've got guidance from the greats like Richard Branson when I need it most.",
+          "likes": 31,
+          "published": "2025-10-03T22:42:27Z"
+        },
+        {
+          "author": "@humanbeing1065",
+          "text": "Ok, as a woman of retirement age, who can't fiscally retire, who also sees the writing on the wall about the future of my employment outlook (zilch!), looking for some options for a career change in this late of the game, at the age of 66... THIS IS AWESOME! \nThere is hope.",
+          "likes": 24,
+          "published": "2025-06-22T20:35:01Z"
+        },
+        {
+          "author": "@CHCTRADING",
+          "text": "I think who ever is watching and learning right now, we are still ahead of 90 percent of the work force. We must learn how to work with ai, otherwise your nightmare comes true, they replace you. I'm an engineer myself and  running a cleaning company. This will be a game changer. This is great for auto reply for quotation and to research and generate leads. Cleaning industry is very well forgotten and I am determined to take this industry forward.",
+          "likes": 0,
+          "published": "2025-11-22T17:32:09Z"
+        },
+        {
+          "author": "@international-media",
+          "text": "This guide was just what I needed! AgentVoice's ability to remember conversations has made my CRM syncing so much easier. Anyone else tried it?",
+          "likes": 1,
+          "published": "2025-10-09T17:24:18Z"
+        },
+        {
+          "author": "@DaSC9",
+          "text": "As a dev working with enterprise agentic solutions, I can't believe how it's possible that so many people believe this, no hate at all, but OMG. This guy has my genuine respect. I'll quit my job right now and start selling courses.",
+          "likes": 0,
+          "published": "2026-02-24T05:13:08Z"
+        },
+        {
+          "author": "@JoelCMusic",
+          "text": "Thanks Liam, really appreciate this crash course, it’s been a super helpful entry point into the AI space. I recently launched an ecommerce solution for a German client in the life science sector to help them respond faster during pandemics, and I’ve been looking for the right way to layer an AI copilot sales agent on top of my service. Your content is helping me get one step closer to real AI literacy, and I’m committed to finishing the foundational knowledge so I can keep pushing my journey forward.",
+          "likes": 1,
+          "published": "2026-02-16T03:44:53Z"
+        },
+        {
+          "author": "@PrasannaYTPrem77",
+          "text": "That was such an amazing video. I can't believe the number of resources you have shared with everyone!!! Thank you, and I hope life gives you much much more in return. Loved every bit of it, followed along over 3-4 days and setup most of the Agents. And for someone building it for the first time, I was truly amazed. Looking forward to more from you Liam, thank you and your team for putting this together.☺",
+          "likes": 4,
+          "published": "2025-04-02T17:58:52Z"
+        },
+        {
+          "author": "@veelyon",
+          "text": "Thank you for this in-depth video Liam! Highly appreciated. Exactly what I needed.",
+          "likes": 4,
+          "published": "2025-03-27T06:55:58Z"
+        },
+        {
+          "author": "@emilysinsxo",
+          "text": "Thank you for taking the time to create this incredibly valuable video! This is exactly what I’ve been looking for 🙏",
+          "likes": 4,
+          "published": "2025-03-27T23:34:55Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "building AI agents",
+      "video_id": "gHB4JFG9i3k",
+      "video_title": "Claude Code: Build Your First AI Agent",
+      "channel": "Teacher's Tech",
+      "total_comments": 20,
+      "signal_comments": [
+        {
+          "author": "@DashingDudeAK",
+          "text": "You made my life easy, this is exactly what I was looking for, Boom😎",
+          "likes": 1,
+          "published": "2026-03-27T08:43:59Z"
+        },
+        {
+          "author": "@TroyPowersPowerfulInnovations",
+          "text": "Just what I was looking for right when I needed it! Thanks for the video!",
+          "likes": 1,
+          "published": "2026-03-24T01:03:21Z"
+        },
+        {
+          "author": "@sumitmittal6778",
+          "text": "Exactly what I was looking for. Nobody is teaching this. I'm a subscriber now",
+          "likes": 2,
+          "published": "2026-03-25T20:28:05Z"
+        },
+        {
+          "author": "@ERP_Mastery",
+          "text": "How would you adapt this approach for real business workflows (like data analysis or reporting) instead of just general tasks?",
+          "likes": 1,
+          "published": "2026-03-25T09:49:14Z"
+        },
+        {
+          "author": "@DaStopher1",
+          "text": "Maybe a stupid question, but are these headers arbitrary? Am I able to come up with my own markdown headers and subheaders or is Claude specifically looking for these?",
+          "likes": 1,
+          "published": "2026-03-27T18:14:38Z"
+        },
+        {
+          "author": "@1moreNard",
+          "text": "Is Mac mini needed for this ?",
+          "likes": 0,
+          "published": "2026-03-24T14:04:55Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "building AI agents",
+      "video_id": "BF2k_fKuCVM",
+      "video_title": "AI Agents explained in 3 steps",
+      "channel": "Jeff Su",
+      "total_comments": 100,
+      "signal_comments": [
+        {
+          "author": "@mauricioalvesdemelo1128",
+          "text": "In my opinion, you should have used the word ACTIVE instead of PASSIVE in your presentation, since you are using NOT and YES marks. Still, good explanation.",
+          "likes": 28,
+          "published": "2025-07-04T02:56:24Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "AI agent workflow",
+      "video_id": "vcvRVlc_VFg",
+      "video_title": "Build a Whatsapp AI Agent for appointment handling (n8n Tutorial) #n8n #aiautomation",
+      "channel": "Ed Hill | AI Automation",
+      "total_comments": 100,
+      "signal_comments": [
+        {
+          "author": "@sehzadsahu",
+          "text": "this is so cool, i need to try it",
+          "likes": 0,
+          "published": "2026-01-04T00:07:18Z"
+        },
+        {
+          "author": "@highwebseries",
+          "text": "just what i needed, thanks for sharing",
+          "likes": 1,
+          "published": "2025-11-05T20:15:17Z"
+        },
+        {
+          "author": "@khan___ff__indiua",
+          "text": "this is just what i needed for my project",
+          "likes": 0,
+          "published": "2026-01-02T09:56:44Z"
+        },
+        {
+          "author": "@caudharygaming",
+          "text": "just what i needed, thanks a bunch",
+          "likes": 0,
+          "published": "2026-01-08T04:22:03Z"
+        },
+        {
+          "author": "@viks710",
+          "text": "Is there a full tutorial as I am completely new",
+          "likes": 0,
+          "published": "2026-03-18T08:21:15Z"
+        },
+        {
+          "author": "@Keyxano",
+          "text": "I always get an error that my open ai credits arent enough and the workflow isnt able to run. Its so annoying, i cant build anything which includes open ai as a chat model",
+          "likes": 0,
+          "published": "2026-03-22T16:09:27Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "AI agent workflow",
+      "video_id": "a-1lZvvTNOs",
+      "video_title": "RoadMap to learn Agentic AI #ai #agenticai #education",
+      "channel": "The DotNet Office",
+      "total_comments": 100,
+      "signal_comments": [
+        {
+          "author": "@pawcket",
+          "text": "95% of AI users won't need to learn any of this. This is a similar roadmap to trying to teach someone how to make their own Operating System, instead of just handing them Windows.",
+          "likes": 3,
+          "published": "2025-11-08T18:14:37Z"
+        },
+        {
+          "author": "@DomBeoRoblox",
+          "text": "just what i needed to start with agentic ai",
+          "likes": 0,
+          "published": "2025-10-16T07:20:26Z"
+        },
+        {
+          "author": "@مفترس_بوبجي",
+          "text": "i needed a roadmap like this, thanks!",
+          "likes": 0,
+          "published": "2025-10-18T08:39:39Z"
+        },
+        {
+          "author": "@MonuranjanKalita-jv5vi",
+          "text": "just what I needed to start learning",
+          "likes": 0,
+          "published": "2025-11-17T17:50:45Z"
+        },
+        {
+          "author": "@vinodgujar0968",
+          "text": "just what i needed to get started",
+          "likes": 0,
+          "published": "2025-11-03T14:46:30Z"
+        },
+        {
+          "author": "@mazhar7814",
+          "text": "this is exactly what i needed to get started",
+          "likes": 0,
+          "published": "2025-10-17T10:48:28Z"
+        },
+        {
+          "author": "@duylinhnguyen2104",
+          "text": "just what i needed to get started 👍",
+          "likes": 0,
+          "published": "2025-11-17T14:34:07Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "AI agent workflow",
+      "video_id": "FwOTs4UxQS4",
+      "video_title": "AI Agents, Clearly Explained",
+      "channel": "Jeff Su",
+      "total_comments": 100,
+      "signal_comments": [
+        {
+          "author": "@gamercrest3000",
+          "text": "As a computer scientist, I really enjoyed watching this explanation. I was looking for a video to share with my not-tech-savvy friends and this is quite ideal. Thanks.",
+          "likes": 31,
+          "published": "2025-05-19T16:02:43Z"
+        },
+        {
+          "author": "@CodeTrix22",
+          "text": "Thank you so much dude this is what I needed! I couldn't get my head around the whole concept until  just now lol",
+          "likes": 27,
+          "published": "2025-04-08T13:19:54Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "AI agent workflow",
+      "video_id": "DbU5FXpd6xI",
+      "video_title": "Build Your First AI Agent with n8n IN 30 Minutes | (NO CODING)",
+      "channel": "Ishan Sharma",
+      "total_comments": 78,
+      "signal_comments": [
+        {
+          "author": "@RithikaTalikoti",
+          "text": "Apify APIs are not working anymore, error in the output is like \"i need to buy APIs\"",
+          "likes": 9,
+          "published": "2026-02-05T08:52:18Z"
+        },
+        {
+          "author": "@NehaKumari-gd2kn",
+          "text": "Don't watch this video, waste of time, long process",
+          "likes": 1,
+          "published": "2026-02-18T18:19:51Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "AI agent workflow",
+      "video_id": "AWpm2fvR16w",
+      "video_title": "From Zero to Your FIRST AI Agent 10 Minutes",
+      "channel": "Ishan Sharma",
+      "total_comments": 38,
+      "signal_comments": [
+        {
+          "author": "@ALEAITSOLUTIONS",
+          "text": "Great breakdown the way you illustrated how browser latency impacts real-time AI interactions really resonated. The live side-by-side demo made that performance gap so clear. Looking forward to more deep dives like this!",
+          "likes": 0,
+          "published": "2025-11-04T12:10:51Z"
+        },
+        {
+          "author": "@diptiv2148",
+          "text": "I understood how to make ai agency but one thing that I can’t is how will I find that I need to send to this e mail id how will any company approach me?",
+          "likes": 0,
+          "published": "2025-11-29T19:03:51Z"
+        },
+        {
+          "author": "@hahahahaha12365",
+          "text": "Hi Ishan. I need to automate the process of cropping a video and then choosing the correct aspect ratio for it.\nI have a theme page on Instagram where I have to manually crop each reel every time. I want a workflow where I upload the reel, it auto crops it, and chooses the aspect ratio for it.",
+          "likes": 0,
+          "published": "2025-11-03T16:20:40Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "AI agent tools",
+      "video_id": "_vLi76x43b0",
+      "video_title": "Top 7 AI Agent Tools That Actually Work",
+      "channel": "Futurepedia",
+      "total_comments": 36,
+      "signal_comments": [
+        {
+          "author": "@marcusjones1110",
+          "text": "This is a great video about AI Agents. I need to get into them. Manus seems really cool. Please do a tutorial video about it.",
+          "likes": 0,
+          "published": "2026-03-24T06:30:53Z"
+        },
+        {
+          "author": "@nwdbrown",
+          "text": "Nice list.  Is there a reason that you don't include Genspark?",
+          "likes": 2,
+          "published": "2026-03-19T19:45:59Z"
+        },
+        {
+          "author": "@ERP_Mastery",
+          "text": "If you had to pick just one of these tools to start building real business use cases (like automation or analytics), which one would you recommend and why?",
+          "likes": 0,
+          "published": "2026-03-25T08:19:21Z"
+        },
+        {
+          "author": "@drewmoney_au",
+          "text": "I use OpenClaw because it's essentially free. I'd love to use Manus but it's way too expensive.",
+          "likes": 3,
+          "published": "2026-03-19T21:45:05Z"
+        },
+        {
+          "author": "@techbaes",
+          "text": "Predicting all of the complaints incoming...\n-Token Spend\n- Security\n- Overhyped\n- It's dumb",
+          "likes": 4,
+          "published": "2026-03-19T19:28:18Z"
+        },
+        {
+          "author": "@cmm3300",
+          "text": "Openclaw has severe security issues still, overhyped.",
+          "likes": 3,
+          "published": "2026-03-19T18:54:25Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "AI agent tools",
+      "video_id": "BF2k_fKuCVM",
+      "video_title": "AI Agents explained in 3 steps",
+      "channel": "Jeff Su",
+      "total_comments": 100,
+      "signal_comments": [
+        {
+          "author": "@mauricioalvesdemelo1128",
+          "text": "In my opinion, you should have used the word ACTIVE instead of PASSIVE in your presentation, since you are using NOT and YES marks. Still, good explanation.",
+          "likes": 28,
+          "published": "2025-07-04T02:56:24Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "AI agent tools",
+      "video_id": "vcvRVlc_VFg",
+      "video_title": "Build a Whatsapp AI Agent for appointment handling (n8n Tutorial) #n8n #aiautomation",
+      "channel": "Ed Hill | AI Automation",
+      "total_comments": 100,
+      "signal_comments": [
+        {
+          "author": "@sehzadsahu",
+          "text": "this is so cool, i need to try it",
+          "likes": 0,
+          "published": "2026-01-04T00:07:18Z"
+        },
+        {
+          "author": "@highwebseries",
+          "text": "just what i needed, thanks for sharing",
+          "likes": 1,
+          "published": "2025-11-05T20:15:17Z"
+        },
+        {
+          "author": "@khan___ff__indiua",
+          "text": "this is just what i needed for my project",
+          "likes": 0,
+          "published": "2026-01-02T09:56:44Z"
+        },
+        {
+          "author": "@caudharygaming",
+          "text": "just what i needed, thanks a bunch",
+          "likes": 0,
+          "published": "2026-01-08T04:22:03Z"
+        },
+        {
+          "author": "@viks710",
+          "text": "Is there a full tutorial as I am completely new",
+          "likes": 0,
+          "published": "2026-03-18T08:21:15Z"
+        },
+        {
+          "author": "@Keyxano",
+          "text": "I always get an error that my open ai credits arent enough and the workflow isnt able to run. Its so annoying, i cant build anything which includes open ai as a chat model",
+          "likes": 0,
+          "published": "2026-03-22T16:09:27Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "AI agent tools",
+      "video_id": "AWpm2fvR16w",
+      "video_title": "From Zero to Your FIRST AI Agent 10 Minutes",
+      "channel": "Ishan Sharma",
+      "total_comments": 38,
+      "signal_comments": [
+        {
+          "author": "@ALEAITSOLUTIONS",
+          "text": "Great breakdown the way you illustrated how browser latency impacts real-time AI interactions really resonated. The live side-by-side demo made that performance gap so clear. Looking forward to more deep dives like this!",
+          "likes": 0,
+          "published": "2025-11-04T12:10:51Z"
+        },
+        {
+          "author": "@diptiv2148",
+          "text": "I understood how to make ai agency but one thing that I can’t is how will I find that I need to send to this e mail id how will any company approach me?",
+          "likes": 0,
+          "published": "2025-11-29T19:03:51Z"
+        },
+        {
+          "author": "@hahahahaha12365",
+          "text": "Hi Ishan. I need to automate the process of cropping a video and then choosing the correct aspect ratio for it.\nI have a theme page on Instagram where I have to manually crop each reel every time. I want a workflow where I upload the reel, it auto crops it, and chooses the aspect ratio for it.",
+          "likes": 0,
+          "published": "2025-11-03T16:20:40Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "LLM agents production",
+      "video_id": "sWH0T4Zez6I",
+      "video_title": "Multi Agent Systems Explained: How AI Agents &amp; LLMs Work Together",
+      "channel": "IBM Technology",
+      "total_comments": 35,
+      "signal_comments": [
+        {
+          "author": "@iosascha1",
+          "text": "Good overview of the architectural patterns. The key gap in most multi-agent discussions is the cost dimension — these systems don't just add complexity, they multiply inference costs. In a hierarchical pattern, the orchestrator agent doesn't need the same model as the specialist workers. A cheaper model can handle coordination, routing, and status checks while only the agents doing complex reasoning or content generation need the expensive tier. In a decentralized pattern, you can even have agents dynamically negotiate which model tier to use based on task complexity — essentially model cascading at the agent communication layer. Without this, production multi-agent systems hit cost walls very quickly, especially with re-planning loops that can spiral token usage.",
+          "likes": 2,
+          "published": "2026-03-01T14:12:47Z"
+        },
+        {
+          "author": "@ghostrex5979",
+          "text": "I like the videos with some small example like this instead of explain 1000 line of codes that is difficult to understand  ❤",
+          "likes": 0,
+          "published": "2025-12-17T07:29:43Z"
+        },
+        {
+          "author": "@onewizzard",
+          "text": "this is so stupid an useless. we get the hierarchy. Why didnt you cover the real meat and potatoes instead of the silly bee analogies. Like how does one agent store and prioritize the communications, what if they are out of sync with the collective, how do you manage work drift of an agent from the overall workflow. What about time to live of an instructions, surely one agent cannot be a bottleneck if say 1 task takes longer than another agent, how about in the event of a failed agent, how do you recover the workflow without restarting, what about auditing, how do you know where the failure point occur, usually the failed event of an agent is due to upstream issues. \n\nYou aint looking too good with this simple for 3rd graders video. Ive lost time that I will never get back. I thought IBM was supposed to be hardcore engineering, wtf is this crap. You aint solving real problems with this video.",
+          "likes": 1,
+          "published": "2026-01-24T23:05:01Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "LLM agents production",
+      "video_id": "4jYZg6pkXyc",
+      "video_title": "Agentic RAG vs RAGs",
+      "channel": "Rakesh Gohel",
+      "total_comments": 88,
+      "signal_comments": [
+        {
+          "author": "@HIMANSHUKUMAR_0102",
+          "text": "this is a game changer for my research",
+          "likes": 0,
+          "published": "2025-11-27T22:08:13Z"
+        },
+        {
+          "author": "@shennan7385",
+          "text": "Hello, practical development and project implementation experience in LLM application development and AI Agent; 3. Familiar with the technical characteristics, API, and MCP of mainstream LLM models (such as DeepSeek, Qwen, Doubao, Xinghuo, etc.). Is there a video available for self-study on YouTube? Thank you",
+          "likes": 0,
+          "published": "2025-08-03T05:30:19Z"
+        },
+        {
+          "author": "@evyguo7577",
+          "text": "Would this course use MCP Servers? Or is there any other courses which do?",
+          "likes": 0,
+          "published": "2025-08-06T16:26:31Z"
+        },
+        {
+          "author": "@davidalexander843",
+          "text": "annoying music.  im a beginner and this told me absolutely nothing. try again.",
+          "likes": 0,
+          "published": "2025-10-26T21:05:04Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "LLM agents production",
+      "video_id": "ZaPbP9DwBOE",
+      "video_title": "Don&#39;t learn AI Agents without Learning these Fundamentals",
+      "channel": "KodeKloud",
+      "total_comments": 100,
+      "signal_comments": [
+        {
+          "author": "@sharadkumar8365",
+          "text": "LET ME FIRST SAY - THANK YOU EVER SO MUCH FOR CREATING THIS VIDEO AND POSTING IT. Half the struggle i find is not knowing what i need to know or what is more important to know and its all a hit and miss and hours or days wasted but this is brilliant. I HAVE  only spent last 2 hours and i am not even half way through it making notes. i have been studying online courses and watched endless you tube videos that just want you to watch longer and the next clip vs teach you, this video is by far one of the top videos and hence i am pleased and grateful. It explains and clarifies things with such ease, following a perfect logical path that gives u the right info as and when you need to know without overwhelming you with jargon especially as a no coder or frustrating you by assuming you know something that is core to understanding and not explaining it. Many basics I assumed I knew suddenly made sense and made me understand why i struggle with AI over certain matters. I now know where to look to resolve it. thank you. I will watch the rest later as this is a whole dam course in itself and its brilliant! I will certainly check out more of your videos.",
+          "likes": 26,
+          "published": "2026-01-20T16:54:07Z"
+        },
+        {
+          "author": "@pavang18k",
+          "text": "this is the stuff i needed to start learning",
+          "likes": 2,
+          "published": "2025-12-16T18:39:24Z"
+        },
+        {
+          "author": "@winniepatel1757",
+          "text": "just what i needed to get started",
+          "likes": 0,
+          "published": "2026-01-17T07:14:00Z"
+        },
+        {
+          "author": "@pujapachchigar6713",
+          "text": "@KodeKloud ,  Where is the Human in the loop explanation video. I am so much looking forward to that. Thank you very much for making this so easy. Finally feeling confident abou it.",
+          "likes": 0,
+          "published": "2026-02-22T20:33:24Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "LLM agents production",
+      "video_id": "7CHr0qwTcJw",
+      "video_title": "MCP Protocol Is Changing Everything | The Secret Behind Scalable AI Agents #MCP #AiAgent #LLM",
+      "channel": "Amine DALY",
+      "total_comments": 100,
+      "signal_comments": [
+        {
+          "author": "@tobisamue2648",
+          "text": "mcp sounds like a game changer for sure",
+          "likes": 0,
+          "published": "2025-10-18T23:15:26Z"
+        },
+        {
+          "author": "@PioBizimana-y6q",
+          "text": "i need to learn more about mcp for real",
+          "likes": 0,
+          "published": "2025-10-17T22:27:13Z"
+        },
+        {
+          "author": "@khetibadi-t6n",
+          "text": "wow i need to learn more about this",
+          "likes": 0,
+          "published": "2025-10-19T21:03:45Z"
+        },
+        {
+          "author": "@BrianHallmond",
+          "text": "Man i wish saw this a few months ago! Subbed. Keep sharing and educating",
+          "likes": 1,
+          "published": "2025-09-21T04:22:03Z"
+        },
+        {
+          "author": "@DrAIScience",
+          "text": "So is there any better way?",
+          "likes": 0,
+          "published": "2025-09-07T14:57:55Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "AI agents venture capital",
+      "video_id": "FwOTs4UxQS4",
+      "video_title": "AI Agents, Clearly Explained",
+      "channel": "Jeff Su",
+      "total_comments": 100,
+      "signal_comments": [
+        {
+          "author": "@gamercrest3000",
+          "text": "As a computer scientist, I really enjoyed watching this explanation. I was looking for a video to share with my not-tech-savvy friends and this is quite ideal. Thanks.",
+          "likes": 31,
+          "published": "2025-05-19T16:02:43Z"
+        },
+        {
+          "author": "@CodeTrix22",
+          "text": "Thank you so much dude this is what I needed! I couldn't get my head around the whole concept until  just now lol",
+          "likes": 27,
+          "published": "2025-04-08T13:19:54Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "AI agents venture capital",
+      "video_id": "l0h3nAW13ao",
+      "video_title": "From Idea to $650M Exit: Lessons in Building AI Startups",
+      "channel": "Y Combinator",
+      "total_comments": 59,
+      "signal_comments": [
+        {
+          "author": "@bryanslab25",
+          "text": "Look at what people are already paying other humans to do.\n\n3 categories for AI startup: \n- assist humans in performing their jobs better and faster\n- replace and automate an entire job\n- accomplish previously too expensive or time consuming task like analyzing millions of legal docs instantly.\n\nReliable AI products > Flashy demos\nUnderstand the job deeply, break down the process into specific steps, translate to code, evaluate\n\nGreat Product > Marketing\nBut u still need to do marketing.\nYour not selling a $20/month tool, your augmenting or replacing human labor. Try price per seat\nAI is new and scary, so build trust with pilots and comparisons with existing human workflow to prove effectiveness\nCustomer signed != job done\nDo onboarding, training, support ensure customer uses the product fully.\nThe entire experience is the product, not just software.",
+          "likes": 9,
+          "published": "2025-11-20T17:33:55Z"
+        },
+        {
+          "author": "@ayanhussain4726",
+          "text": "\"Fkn Langchain or whatever\"\n Love it. Lol",
+          "likes": 8,
+          "published": "2025-11-03T03:21:14Z"
+        },
+        {
+          "author": "@PrathameshAdsul-z8m",
+          "text": "*The purpose of the talking stage (and why it shouldn’t be skipped)*\n\nThe talking stage isn’t a waste of time. It’s the foundation.\n\nIt exists so you can assess compatibility, not just attraction. It’s where you observe patterns instead of falling in love with potential. *Anyone can impress you for a few days, but consistency shows over time.*\n\nThe talking stage  helps clarify intentions early. Are you both looking for the same thing or just enjoying attention? \nTalking prevents silent assumptions that later turn into disappointment.\n\nIt’s also where communication styles are revealed. \nHow someone handles disagreements, boundaries, silence, and emotions will show long before a title does.\n\nMost importantly, the talking stage builds emotional safety. Trust grows through conversation, honesty, and time, not through rushing labels.",
+          "likes": 0,
+          "published": "2026-01-02T15:02:32Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "AI agents venture capital",
+      "video_id": "yMalr0jiOAc",
+      "video_title": "How JP Morgan Built An AI Agent for Investment Research with LangGraph | LangChain Interrupt",
+      "channel": "LangChain",
+      "total_comments": 24,
+      "signal_comments": [
+        {
+          "author": "@SemestaUniverse",
+          "text": "Is there any paper related to the presentation in this video ?",
+          "likes": 1,
+          "published": "2025-07-04T15:57:23Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "investing in AI agents",
+      "video_id": "L1kuJms0jLI",
+      "video_title": "How I Built A Stock Analyst AI Agent With No Code (n8n tutorial)",
+      "channel": "Michele Torti",
+      "total_comments": 14,
+      "signal_comments": [
+        {
+          "author": "@matiestrella510",
+          "text": "Can it be more effective by analyzing a table with the values of the stock, instead of an image?",
+          "likes": 2,
+          "published": "2025-10-31T03:14:38Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "investing in AI agents",
+      "video_id": "FwOTs4UxQS4",
+      "video_title": "AI Agents, Clearly Explained",
+      "channel": "Jeff Su",
+      "total_comments": 100,
+      "signal_comments": [
+        {
+          "author": "@gamercrest3000",
+          "text": "As a computer scientist, I really enjoyed watching this explanation. I was looking for a video to share with my not-tech-savvy friends and this is quite ideal. Thanks.",
+          "likes": 31,
+          "published": "2025-05-19T16:02:43Z"
+        },
+        {
+          "author": "@CodeTrix22",
+          "text": "Thank you so much dude this is what I needed! I couldn't get my head around the whole concept until  just now lol",
+          "likes": 27,
+          "published": "2025-04-08T13:19:54Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "investing in AI agents",
+      "video_id": "0Red4LE6VrQ",
+      "video_title": "Build an AI Trading Bot in 10 Minutes",
+      "channel": "Creator Magic",
+      "total_comments": 35,
+      "signal_comments": [
+        {
+          "author": "@Ronaldo_Realm",
+          "text": "Thank mike\nI was also looking for a application to make AI bot",
+          "likes": 0,
+          "published": "2025-02-28T12:52:58Z"
+        },
+        {
+          "author": "@SixtusFelix",
+          "text": "Hi just subscribed to your channel, I'm looking forward to how you create a bot",
+          "likes": 0,
+          "published": "2025-08-01T03:36:41Z"
+        }
+      ],
+      "source": "YouTube"
+    },
+    {
+      "query": "investing in AI agents",
+      "video_id": "BF2k_fKuCVM",
+      "video_title": "AI Agents explained in 3 steps",
+      "channel": "Jeff Su",
+      "total_comments": 100,
+      "signal_comments": [
+        {
+          "author": "@mauricioalvesdemelo1128",
+          "text": "In my opinion, you should have used the word ACTIVE instead of PASSIVE in your presentation, since you are using NOT and YES marks. Still, good explanation.",
+          "likes": 28,
+          "published": "2025-07-04T02:56:24Z"
+        }
+      ],
+      "source": "YouTube"
+    }
+  ]
+}

@@ -1,0 +1,433 @@
+{
+  "fetched_at": "2026-03-29T12:49:16.068989+00:00",
+  "feeds_processed": 3,
+  "feeds_failed": [],
+  "total_entries": 60,
+  "feeds": [
+    "TechCrunch",
+    "Hacker News",
+    "AVC"
+  ],
+  "entries": [
+    {
+      "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
+      "summary": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
+      "published": "Sat, 28 Mar 2026 23:00:00 +0000",
+      "link": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+      "source_name": "TechCrunch"
+    },
+    {
+      "title": "Mark Zuckerberg texted Elon Musk to offer help with DOGE",
+      "summary": "While the relationship was once thorny enough that Musk challenged Zuckerberg to a cagefight, things seem to have warmed up by the early days of the second Trump administration.",
+      "published": "Sat, 28 Mar 2026 21:23:58 +0000",
+      "link": "https://techcrunch.com/2026/03/28/mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge/",
+      "source_name": "TechCrunch"
+    },
+    {
+      "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+      "summary": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
+      "published": "Sat, 28 Mar 2026 20:45:54 +0000",
+      "link": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+      "source_name": "TechCrunch"
+    },
+    {
+      "title": "Elon Musk’s last co-founder reportedly leaves xAI",
+      "summary": "All but two of Musk's 11 xAI co-founders departed before this week.",
+      "published": "Sat, 28 Mar 2026 16:11:16 +0000",
+      "link": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+      "source_name": "TechCrunch"
+    },
+    {
+      "title": "These iPad apps will make you wish you had more free time",
+      "summary": "We’ve compiled a list of some of the best iPad apps for creativity that are available on the App Store.",
+      "published": "Sat, 28 Mar 2026 16:00:00 +0000",
+      "link": "https://techcrunch.com/2026/03/28/best-ipad-apps-for-unleashing-and-exploring-your-creativity/",
+      "source_name": "TechCrunch"
+    },
+    {
+      "title": "Anthropic’s Claude popularity with paying consumers is skyrocketing",
+      "summary": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid subscriptions have more than doubled this year.",
+      "published": "Sat, 28 Mar 2026 14:15:00 +0000",
+      "link": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+      "source_name": "TechCrunch"
+    },
+    {
+      "title": "What will power the grid in 2035? The race is wide open",
+      "summary": "Fusion, fission, and even natural gas are appeared tied in the race to deliver new power to the grid in the early 2030s.",
+      "published": "Sat, 28 Mar 2026 13:05:00 +0000",
+      "link": "https://techcrunch.com/2026/03/28/what-will-power-the-grid-in-2035-the-race-is-wide-open/",
+      "source_name": "TechCrunch"
+    },
+    {
+      "title": "Let’s take a look at the retro tech making a comeback",
+      "summary": "Boomboxes, instant cameras, and even landlines are making a comeback. Here are the coolest retro-inspired devices available.",
+      "published": "Sat, 28 Mar 2026 13:00:00 +0000",
+      "link": "https://techcrunch.com/2026/03/28/lets-take-a-look-at-the-retro-tech-making-a-comeback/",
+      "source_name": "TechCrunch"
+    },
+    {
+      "title": "From Moon hotels to cattle herding: 8 startups investors chased at YC Demo Day",
+      "summary": "We polled nearly a dozen VCs to find out which W26 startups are the sought after in the batch.",
+      "published": "Sat, 28 Mar 2026 12:00:00 +0000",
+      "link": "https://techcrunch.com/2026/03/28/from-moon-hotels-to-cattle-herding-8-startups-investors-chased-at-yc-demo-day/",
+      "source_name": "TechCrunch"
+    },
+    {
+      "title": "Whoop’s fitness band is cool. Can it stay cool as the company grows?",
+      "summary": "Whoop founder Will Ahmed has spent 14 years building a health wearable beloved by elite athletes, and is now racing Oura — and the FDA, and the limits of consumer medicine — to turn it into something that could one day save your life.",
+      "published": "Sat, 28 Mar 2026 02:31:10 +0000",
+      "link": "https://techcrunch.com/2026/03/27/whoop-has-lebron-now-it-wants-your-mom/",
+      "source_name": "TechCrunch"
+    },
+    {
+      "title": "Physical Intelligence is reportedly in talks to raise $1 billion, again",
+      "summary": "The deal would effectively double the company's $5.6 billion valuation in just four months.",
+      "published": "Fri, 27 Mar 2026 23:59:40 +0000",
+      "link": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/",
+      "source_name": "TechCrunch"
+    },
+    {
+      "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
+      "summary": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.",
+      "published": "Fri, 27 Mar 2026 21:44:45 +0000",
+      "link": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+      "source_name": "TechCrunch"
+    },
+    {
+      "title": "Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO",
+      "summary": "SK hynix’s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage.",
+      "published": "Fri, 27 Mar 2026 19:11:28 +0000",
+      "link": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
+      "source_name": "TechCrunch"
+    },
+    {
+      "title": "Waymo’s skyrocketing ridership in one chart",
+      "summary": "Waymo's weekly paid robotaxi trips have increased tenfold in less than two years.",
+      "published": "Fri, 27 Mar 2026 19:11:10 +0000",
+      "link": "https://techcrunch.com/2026/03/27/waymo-skyrocketing-ridership-in-one-chart/",
+      "source_name": "TechCrunch"
+    },
+    {
+      "title": "European Commission confirms cyberattack after hackers claim data breach",
+      "summary": "The European Union's top executive body has confirmed a cyberattack after hackers reportedly stole reams of data from the European Commission's cloud storage.",
+      "published": "Fri, 27 Mar 2026 17:59:29 +0000",
+      "link": "https://techcrunch.com/2026/03/27/european-commission-confirms-cyberattack-after-hackers-claim-data-breach/",
+      "source_name": "TechCrunch"
+    },
+    {
+      "title": "Aetherflux reportedly raising Series B at $2 billion valuation",
+      "summary": "Index Ventures is said to be leading a $250 million to $350 million round.",
+      "published": "Fri, 27 Mar 2026 17:05:26 +0000",
+      "link": "https://techcrunch.com/2026/03/27/aetherflux-reportedly-raising-series-b-at-2-billion-valuation/",
+      "source_name": "TechCrunch"
+    },
+    {
+      "title": "Rivian gets another $1B from Volkswagen",
+      "summary": "The two companies have been collaborating on a joint venture that would see Rivian tech go in VW's EVs.",
+      "published": "Fri, 27 Mar 2026 15:47:03 +0000",
+      "link": "https://techcrunch.com/2026/03/27/rivian-gets-another-1b-from-volkswagen/",
+      "source_name": "TechCrunch"
+    },
+    {
+      "title": "Iranian hackers claim breach of FBI director Kash Patel’s personal email account",
+      "summary": "Handala, a pro-Iranian hacking group allegedly working for Iran’s government, published emails it said were taken from the Gmail account of FBI director Kash Patel.",
+      "published": "Fri, 27 Mar 2026 15:39:07 +0000",
+      "link": "https://techcrunch.com/2026/03/27/iranian-hackers-claim-breach-of-fbi-director-kash-patels-personal-email-account/",
+      "source_name": "TechCrunch"
+    },
+    {
+      "title": "Apple says no one using Lockdown Mode has been hacked with spyware",
+      "summary": "The tech giant's claim that it has not seen any successful spyware attacks targeting Apple devices with Lockdown Mode enabled comes amid a leak of hacking tools targeting users running devices with older software.",
+      "published": "Fri, 27 Mar 2026 14:27:32 +0000",
+      "link": "https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/",
+      "source_name": "TechCrunch"
+    },
+    {
+      "title": "OpenAI shuts down Sora while Meta gets shut out in court",
+      "summary": "When an 82-year-old Kentucky woman was&#160;offered $26 million&#160;from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone&#160;2,000 acres&#160;nearby anyway, but as AI infrastructure stretches further into the real world,&#160;the real world is starting to push back.&#160; That tension is everywhere [&#8230;]",
+      "published": "Fri, 27 Mar 2026 13:30:00 +0000",
+      "link": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
+      "source_name": "TechCrunch"
+    },
+    {
+      "title": "Show HN: Sheet Ninja – Google Sheets as a CRUD Back End for Vibe Coders",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47562288\">Comments</a>",
+      "published": "Sun, 29 Mar 2026 11:42:31 +0000",
+      "link": "https://sheetninja.io",
+      "source_name": "Hacker News"
+    },
+    {
+      "title": "Overestimation of microplastics potentially caused by scientists' gloves",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47561711\">Comments</a>",
+      "published": "Sun, 29 Mar 2026 09:46:58 +0000",
+      "link": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
+      "source_name": "Hacker News"
+    },
+    {
+      "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47561819\">Comments</a>",
+      "published": "Sun, 29 Mar 2026 10:10:12 +0000",
+      "link": "https://github.com/austin-weeks/miasma",
+      "source_name": "Hacker News"
+    },
+    {
+      "title": "The Cloud: The dystopian book that changed Germany (2022)",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47562589\">Comments</a>",
+      "published": "Sun, 29 Mar 2026 12:24:56 +0000",
+      "link": "https://www.bbc.com/culture/article/20221101-the-cloud-the-nuclear-novel-that-shaped-germany",
+      "source_name": "Hacker News"
+    },
+    {
+      "title": "Founder of GitLab battles cancer by founding companies",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47556729\">Comments</a>",
+      "published": "Sat, 28 Mar 2026 17:39:49 +0000",
+      "link": "https://sytse.com/cancer/",
+      "source_name": "Hacker News"
+    },
+    {
+      "title": "Technology: The (nearly) perfect USB cable tester does exist",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47524778\">Comments</a>",
+      "published": "Wed, 25 Mar 2026 23:35:47 +0000",
+      "link": "https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/",
+      "source_name": "Hacker News"
+    },
+    {
+      "title": "AI overly affirms users asking for personal advice",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47554773\">Comments</a>",
+      "published": "Sat, 28 Mar 2026 14:08:33 +0000",
+      "link": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+      "source_name": "Hacker News"
+    },
+    {
+      "title": "CSS is DOOMed",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47557960\">Comments</a>",
+      "published": "Sat, 28 Mar 2026 20:39:01 +0000",
+      "link": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
+      "source_name": "Hacker News"
+    },
+    {
+      "title": "I turned my Kindle into my own personal newspaper",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47541969\">Comments</a>",
+      "published": "Fri, 27 Mar 2026 12:36:21 +0000",
+      "link": "https://manualdousuario.net/en/how-to-kindle-personal-newspaper/",
+      "source_name": "Hacker News"
+    },
+    {
+      "title": "Siclair Microvision (1977)",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47533324\">Comments</a>",
+      "published": "Thu, 26 Mar 2026 17:33:25 +0000",
+      "link": "https://r-type.org/articles/art-452.htm",
+      "source_name": "Hacker News"
+    },
+    {
+      "title": "Lat.md: Agent Lattice: a knowledge graph for your codebase, written in Markdown",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47561496\">Comments</a>",
+      "published": "Sun, 29 Mar 2026 08:59:52 +0000",
+      "link": "https://github.com/1st1/lat.md",
+      "source_name": "Hacker News"
+    },
+    {
+      "title": "Show HN: Create a full language server in Go with 3.17 spec support",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47510005\">Comments</a>",
+      "published": "Tue, 24 Mar 2026 21:56:07 +0000",
+      "link": "https://github.com/owenrumney/go-lsp",
+      "source_name": "Hacker News"
+    },
+    {
+      "title": "Show HN: Public transit systems as data – lines, stations, railcars, and history",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47561132\">Comments</a>",
+      "published": "Sun, 29 Mar 2026 07:38:58 +0000",
+      "link": "https://publictransit.systems",
+      "source_name": "Hacker News"
+    },
+    {
+      "title": "Monado became the foundation for OpenXR runtimes",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47534953\">Comments</a>",
+      "published": "Thu, 26 Mar 2026 19:58:19 +0000",
+      "link": "https://www.collabora.com/news-and-blog/news-and-events/how-monado-became-the-foundation-for-openxr-runtimes.html",
+      "source_name": "Hacker News"
+    },
+    {
+      "title": "Alzheimer's disease mortality among taxi and ambulance drivers (2024)",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47559481\">Comments</a>",
+      "published": "Sun, 29 Mar 2026 00:53:30 +0000",
+      "link": "https://www.bmj.com/content/387/bmj-2024-082194",
+      "source_name": "Hacker News"
+    },
+    {
+      "title": "Nonfiction Publishing, Under Threat, Is More Important",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47523138\">Comments</a>",
+      "published": "Wed, 25 Mar 2026 20:56:51 +0000",
+      "link": "https://newrepublic.com/article/207659/non-fiction-publishing-threat-important-ever",
+      "source_name": "Hacker News"
+    },
+    {
+      "title": "OpenBSD on Motorola 88000 Processors",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47543186\">Comments</a>",
+      "published": "Fri, 27 Mar 2026 14:39:51 +0000",
+      "link": "http://miod.online.fr/software/openbsd/stories/m88k1.html",
+      "source_name": "Hacker News"
+    },
+    {
+      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47557166\">Comments</a>",
+      "published": "Sat, 28 Mar 2026 18:38:59 +0000",
+      "link": "https://twitter.com/BoWang87/status/2037648937453232504",
+      "source_name": "Hacker News"
+    },
+    {
+      "title": "I decompiled the White House's new app",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47555556\">Comments</a>",
+      "published": "Sat, 28 Mar 2026 15:37:17 +0000",
+      "link": "https://thereallo.dev/blog/decompiling-the-white-house-app",
+      "source_name": "Hacker News"
+    },
+    {
+      "title": "A Verilog to Factorio Compiler and Simulator (Working RISC-V CPU)",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47528853\">Comments</a>",
+      "published": "Thu, 26 Mar 2026 10:47:36 +0000",
+      "link": "https://github.com/ben-j-c/verilog2factorio",
+      "source_name": "Hacker News"
+    },
+    {
+      "title": "What if AI doesn't need more RAM but better math?",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47561297\">Comments</a>",
+      "published": "Sun, 29 Mar 2026 08:18:55 +0000",
+      "link": "https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more",
+      "source_name": "Hacker News"
+    },
+    {
+      "title": "I Built an Open-World Engine for the N64 [video]",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47553717\">Comments</a>",
+      "published": "Sat, 28 Mar 2026 11:49:28 +0000",
+      "link": "https://www.youtube.com/watch?v=lXxmIw9axWw",
+      "source_name": "Hacker News"
+    },
+    {
+      "title": "Android’s new sideload settings will carry over to new devices",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47557901\">Comments</a>",
+      "published": "Sat, 28 Mar 2026 20:28:03 +0000",
+      "link": "https://www.androidauthority.com/android-sideload-carry-over-3652845/",
+      "source_name": "Hacker News"
+    },
+    {
+      "title": "A laser-based process that enables adhesive-free paper packaging",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47558782\">Comments</a>",
+      "published": "Sat, 28 Mar 2026 22:50:49 +0000",
+      "link": "https://www.fraunhofer.de/en/press/research-news/2026/march-2026/sealing-paper-packaging-without-adhesives.html",
+      "source_name": "Hacker News"
+    },
+    {
+      "title": "The ANSI art \"telecomics\" of the 1992 election",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47536306\">Comments</a>",
+      "published": "Thu, 26 Mar 2026 21:54:18 +0000",
+      "link": "https://breakintochat.com/blog/2026/03/25/don-lokke-and-mack-the-mouse/",
+      "source_name": "Hacker News"
+    },
+    {
+      "title": "Linux is an interpreter",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47556359\">Comments</a>",
+      "published": "Sat, 28 Mar 2026 16:59:34 +0000",
+      "link": "https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/",
+      "source_name": "Hacker News"
+    },
+    {
+      "title": "OpenCiv1 – open-source rewrite of Civ1",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47557064\">Comments</a>",
+      "published": "Sat, 28 Mar 2026 18:22:45 +0000",
+      "link": "https://github.com/rajko-horvat/OpenCiv1",
+      "source_name": "Hacker News"
+    },
+    {
+      "title": "LinkedIn uses 2.4 GB RAM across two tabs",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47561489\">Comments</a>",
+      "published": "Sun, 29 Mar 2026 08:58:24 +0000",
+      "link": "https://news.ycombinator.com/item?id=47561489",
+      "source_name": "Hacker News"
+    },
+    {
+      "title": "The Hackers Who Tracked My Sleep Cycle",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47532212\">Comments</a>",
+      "published": "Thu, 26 Mar 2026 16:06:14 +0000",
+      "link": "https://glama.ai/blog/2026-03-26-the-hackers-who-tracked-my-sleep-cycle",
+      "source_name": "Hacker News"
+    },
+    {
+      "title": "InpharmD (YC W21) Is Hiring – Senior Ruby on Rails Developer",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47558305\">Comments</a>",
+      "published": "Sat, 28 Mar 2026 21:35:22 +0000",
+      "link": "https://inpharmd.com/jobs/senior-ruby-on-rails-engineer",
+      "source_name": "Hacker News"
+    },
+    {
+      "title": "I’ve Moved Onchain",
+      "summary": "Over the last few years, I&#8217;ve moved my internet life from web2 to web3 and rarely use any web2 services anymore. So I am starting a series called &#8220;I&#8217;ve Moved Onchain&#8221; to explain this journey to everyone and today&#8217;s opening post is about blogging, naturally. I&#8217;ve blogged at AVC.com for a very long time. I [&#8230;]",
+      "published": "Thu, 02 May 2024 17:30:40 +0000",
+      "link": "https://avc.com/2024/05/ive-moved-onchain/",
+      "source_name": "AVC"
+    },
+    {
+      "title": "Transit Tech Lab",
+      "summary": "The Partnership for NYC, alongside its partners at the MTA, the Port Authority of New York and New Jersey, NJ TRANSIT, and NYC Department of Transportation, launched a call for applications for the 6th annual Transit Tech Lab this week. To kick off this year’s program, the Transit Tech Lab is seeking early and growth-stage [&#8230;]",
+      "published": "Wed, 10 Jan 2024 13:49:57 +0000",
+      "link": "https://avc.com/2024/01/transit-tech-lab/",
+      "source_name": "AVC"
+    },
+    {
+      "title": "Empire AI",
+      "summary": "Last summer I sat down with Tom Secunda, who co-founded Bloomberg LP with Mike Bloomberg, to talk about areas of shared philanthropic interest. Tom told me that academic institutions do not have access to the kind of AI/ML infrastructure that the top tech companies have and he wanted to fix that. His idea was a [&#8230;]",
+      "published": "Tue, 09 Jan 2024 15:05:06 +0000",
+      "link": "https://avc.com/2024/01/empire-ai/",
+      "source_name": "AVC"
+    },
+    {
+      "title": "Read Write Own",
+      "summary": "Chris Dixon, who leads the A16Z crypto fund, and has been an entrepreneur, VC, and friend of mine for over twenty years, has written a book called Read Write Own that is available for pre-order now and will start shipping at the end of the month. Chris gave me a copy right before the holidays [&#8230;]",
+      "published": "Mon, 08 Jan 2024 15:02:50 +0000",
+      "link": "https://avc.com/2024/01/read-write-own/",
+      "source_name": "AVC"
+    },
+    {
+      "title": "What Will Happen In 2024",
+      "summary": "As we enter 2024, the capital markets have found their footing and are moving higher. The Fed has taken interest rates as far as they want at this time and inflation has come down. It seems that a “soft landing” is likely. That is good news for the innovation economy because healthy capital markets are [&#8230;]",
+      "published": "Mon, 01 Jan 2024 15:31:06 +0000",
+      "link": "https://avc.com/2024/01/what-will-happen-in-2024/",
+      "source_name": "AVC"
+    },
+    {
+      "title": "What Happened In 2023",
+      "summary": "I like to bookend the New Year holiday with two posts, one looking back at the year that is ending (What Happened) and one looking forward to the year ahead (What Will Happen). This is the first of these two posts. The second one will run tomorrow. I ended my What Will Happen In 2023 [&#8230;]",
+      "published": "Sun, 31 Dec 2023 14:45:29 +0000",
+      "link": "https://avc.com/2023/12/what-happened-in-2023/",
+      "source_name": "AVC"
+    },
+    {
+      "title": "My Year-End Playlist",
+      "summary": "Every year I put together a playlist at the end of the year with some of the new music I found and got into. Most of these songs are under the radar which is my favorite kind of music. So I hope you find something new that you like in here.",
+      "published": "Wed, 20 Dec 2023 13:15:11 +0000",
+      "link": "https://avc.com/2023/12/my-year-end-playlist-2/",
+      "source_name": "AVC"
+    },
+    {
+      "title": "Sleep",
+      "summary": "I got an Oura ring a couple of years ago and have been working on improving my sleep and sleep habits ever since. For much of my adult life, I have been a poor sleeper. I have always been able to fall asleep quickly, but I have been plagued by two sleep issues. The first [&#8230;]",
+      "published": "Mon, 30 Oct 2023 11:21:32 +0000",
+      "link": "https://avc.com/2023/10/sleep/",
+      "source_name": "AVC"
+    },
+    {
+      "title": "Open Office Hours at NYC Tech Week",
+      "summary": "NYC Tech Week is next week. It will be a week filled with events for the tech sector to engage and connect with each other. A particularly great part of tech week is VC Open Office Hours. There are over 100 VC investors signed up to participate next week. Here is how it works: 1/ [&#8230;]",
+      "published": "Thu, 12 Oct 2023 10:21:05 +0000",
+      "link": "https://avc.com/2023/10/open-office-hours-at-nyc-tech-week/",
+      "source_name": "AVC"
+    },
+    {
+      "title": "The Heist",
+      "summary": "On Saturday, September 9th, the Gotham Gal and I arrived at JFK airport after an eight-hour flight from Paris. While waiting for our luggage, I got pushed a notification in my web3 wallet that there was an NFT drop underway that I could participate in. So I clicked on the link, signed the transaction, and [&#8230;]",
+      "published": "Tue, 26 Sep 2023 12:21:22 +0000",
+      "link": "https://avc.com/2023/09/the-heist/",
+      "source_name": "AVC"
+    }
+  ]
+}
